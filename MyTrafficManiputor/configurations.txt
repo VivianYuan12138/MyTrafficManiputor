@@ -1,0 +1,23 @@
++----Highlight----+
+(iter,swarm,delay,mimic) (1,1,6.0,1000)
+------------------------------------------------------------------------------------------------
+Feature extractor: AfterImage
+------------------------------------------------------------------------------------------------
+(Manipulator Params)
+  grp_size:        100
+  min_time_extend: 3.0
+  max_time_extend: 6.0
+  max_cft_pkt:     2
+  min_cft_pkt_prob:0
+  max_cft_pkt_prob:0.02
+
+(PSO Params)
+  pso_iter:        1
+  pso_num:         1
+  pso_size:        1
+
+(Particle Params)
+  w:               0.7298
+  c1:              1.49618
+  c2:              1.49618
+------------------------------------------------------------------------------------------------
